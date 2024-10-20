@@ -49,3 +49,17 @@ Two Power BI reports are made - Credit Card Transaction Report, Credit Card Cust
 ![image](https://github.com/Badal-28/Credit_card/blob/main/Credit%20Card%20Transactions%20Report_67351301_1.jpg)
 ## Credit Card Customer Report
 ![image](https://github.com/Badal-28/Credit_card/blob/main/Credit%20Card%20Customer%20Report_67351359_1.jpg)
+## Project Insights
+### WOW (Week On Week) change:
+- Revenue increased by 28.8%
+- Total transaction amount and count increased by 35.03% and 3.3%
+- Customer count increased by 12.8%
+### Overview YTD (Year To Date):
+- Overall revenue is 57M
+- Total interest is 8M
+- Total transaction amount is 46M
+- Male customers are contributing more in revenue 31M, females 26M
+- Blue and silver credit cards are contributing to 93% of overall transactions
+- TX, NY and CA are contributing to 68%
+- Overall activation rate is 57.5%
+- Overall delinquent rate is 6.06%
