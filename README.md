@@ -43,3 +43,9 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
    ```bash
    IncomeGroup = SWITCH(TRUE(), 'public cust_detail'[income] < 35000, "Low", 'public cust_detail'[income] >= 35000 && 'public cust_detail'[income] < 70000, "Medium", 'public cust_detail'[income] >= 70000, "High", "unknown")
    ```
+   ## Visualizations
+Two Power BI reports are made - Credit Card Transaction Report, Credit Card Customer Report.
+## Credit Card Transaction Report
+![image](https://github.com/Badal-28/Credit_card/blob/main/Credit%20Card%20Transactions%20Report_67351301_1.jpg)
+## Credit Card Customer Report
+![image](https://github.com/Badal-28/Credit_card/blob/main/Credit%20Card%20Customer%20Report_67351359_1.jpg)
